@@ -64,7 +64,6 @@ body{
     width: 100%;
     display: flex;
     background-image: url("../img/img1.jpg");
-    filter: grayscale(100%);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top -900px center;
