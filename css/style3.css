@@ -139,7 +139,7 @@ color: #ebd8d8;
     height:30px;
     margin-top: 0;
     animation: anim_down 2s infinite linear;
-    transform: translate(-50%,0);
+    transform: translate(-50%,30%);
 }
 .section2{
     z-index: 20;
