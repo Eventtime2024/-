@@ -63,7 +63,7 @@ body{
 .section1{
     width: 100%;
     display: flex;
-    background-image: url("../img/Frame 5.png"");
+    background-image: url("../img/Frame5.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position:top -150px left 0;
