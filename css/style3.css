@@ -20,6 +20,9 @@ img{
     height: 100%;
    
 }
+.photosesia{
+    padding: 0!important;
+}
 
 .mt100{
     margin-top: 100px;
@@ -29,6 +32,7 @@ img{
 }
 .phonenumber{
     margin: 20px 0 0;
+    text-align: center;
     color:#fff;
 
 }
