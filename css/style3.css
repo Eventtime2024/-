@@ -138,6 +138,7 @@ color: #ebd8d8;
 }
 .wedding_img1{
     width: 300px;
+     filter: grayscale(100%);
     height: 400px;
 }
 .down{
@@ -175,6 +176,7 @@ color: #ebd8d8;
     height: 180px;
   margin-top: -150px;
   margin-left: 230px;
+   filter: grayscale(100%);
  
 }
 .dsflex_spacebtw{
