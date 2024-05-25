@@ -145,7 +145,7 @@ color: #ebd8d8;
 .down{
     width: 30px;
     height:30px;
-    margin-top: 20px;
+    margin-top:0px;
     position: relative;
     top:0;
     animation: anim_down 2s infinite linear;
