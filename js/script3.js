@@ -20,7 +20,7 @@ function counts(){
   $("#m").text(formatted_minutes);
   $("#s").text(formatted_seconds);
   if(gap<0){
-    $("#tillwedding").html("<p>ДЕНЬ СВАДБЫ"+"<br>"+"02.08.2024</p>")
+    $("#tillwedding").html("<p>ДЕНЬ СВАДЬБЫ"+"<br>"+"02.08.2024</p>")
     $("#group").text(" ")
   }
   if(days<2){
@@ -47,9 +47,9 @@ let audio=document.getElementById("myAudio")
   }
 });
 
-// $(document).on("contextmenu", function(e) {
-//   e.preventDefault();
-// });
+$(document).on("contextmenu", function(e) {
+  e.preventDefault();
+});
 
 
 function sendMail(e) {
