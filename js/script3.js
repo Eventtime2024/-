@@ -2,7 +2,7 @@ $(window).on( 'load', function() {
     $('html, body').animate({scrollTop : 0});
     });
 
-    let date=new Date("May 25 2024 17:40:00");
+    let date=new Date("May 25 2024 17:41:00");
 function counts(){
     let now= new Date();
     gap=date - now;
