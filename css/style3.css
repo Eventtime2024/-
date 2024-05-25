@@ -175,7 +175,6 @@ color: #ebd8d8;
     height: 180px;
   margin-top: -150px;
   margin-left: 230px;
-     filter: grayscale(100%);
 }
 .dsflex_spacebtw{
     display: flex;
